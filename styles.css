@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    background-color: #babaea;
+}
+
+.exam-detail {
+    background-color: white;
+    width: 60%;
+    margin: 5% auto 5% auto;
+    padding: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px #333333
+}
+
+hr.dotted {
+    border-style: dotted none none;
+    border-color: #8383ef;
+    border-width: 15px;
+    width: 30%;
+    margin: 5% auto 5% auto;
+}
+
+.exam {
+    width: 85%;
+    margin: 5% auto 5% auto;
+}
